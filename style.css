@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+
+.welcome{
+  border: 2px;
+  background-color: palegoldenrod;
+  box-shadow: 0 2px 2px #ccc;
+  width: 200px;
+  margin: 10px;
+  padding : 10px;
+}
